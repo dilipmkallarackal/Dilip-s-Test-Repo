@@ -1,4 +1,3 @@
-# Python program 
 # Validity of Triangle given sides
 
 # Function definition to check validity
